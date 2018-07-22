@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>向阳-Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-07-22T11:59:36.009Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>LiuTong</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo常用命令</title>
+    <link href="http://yoursite.com/2018/07/22/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>http://yoursite.com/2018/07/22/hexo常用命令/</id>
+    <published>2018-07-22T08:04:47.000Z</published>
+    <updated>2018-07-22T11:59:36.009Z</updated>
+    
+    <content type="html"><![CDATA[<p>hexo new “postName”<br>hexo n 也可以<br> 你自己的博客名称，名为postName.md的文件会建在目<br> 录/blog/source/_posts下。</p>
+<p>hexo g //生成静态页面<br>hexo d //发布</p>
+<p>hexo clean  //清除缓存<br>hexo g  //重新生成代码<br>hexo s  //部署到本地</p>
+<p>然后打开浏览器访问 localhost:4000 查看效果上</p>
+<p>注：</p>
+<p>写_yml的时候，记得加上空格先</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;hexo new “postName”&lt;br&gt;hexo n 也可以&lt;br&gt; 你自己的博客名称，名为postName.md的文件会建在目&lt;br&gt; 录/blog/source/_posts下。&lt;/p&gt;
+&lt;p&gt;hexo g //生成静态页面&lt;br&gt;hexo d //发布&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="游学记" scheme="http://yoursite.com/tags/%E6%B8%B8%E5%AD%A6%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>时间账单</title>
+    <link href="http://yoursite.com/2018/07/22/%E6%97%B6%E9%97%B4%E8%B4%A6%E5%8D%95/"/>
+    <id>http://yoursite.com/2018/07/22/时间账单/</id>
+    <published>2018-07-22T07:15:47.000Z</published>
+    <updated>2018-07-22T10:01:41.947Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    上海，传说中的魔都。一直只在电视机或照片上看过的地方。上个星期很荣幸地遇上了它。高楼林立的陆家嘴，带着传奇的魔幻色彩，还有那步行街，南京路。一种陌生所带来的兴奋感油然而生。四处游走，却完全不会疲倦，在这里所体会到的现代感，给我非同一般的视觉冲击，这里一切一切都代表了潮流时尚、先进科技。融合了诸多元素，所产生的现代化合物。</p>
+<p><img src="http://pc95us7qm.bkt.clouddn.com/IMG_20180713_161538.jpg" alt=""></p>
+<p><img src="http://pc95us7qm.bkt.clouddn.com/IMG_20180713_154547.jpg" alt=""></p>
+<p><img src="http://pc95us7qm.bkt.clouddn.com/IMG_20180713_161941.jpg" alt=""></p>
+<p>时间总是那么短暂，又匆匆的赶往下一站了。</p>
+<p><img src="http://pc95us7qm.bkt.clouddn.com/IMG_20180713_205800_HHT.jpg" alt=""></p>
+<p>致：前所未有感受与体验</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;​    上海，传说中的魔都。一直只在电视机或照片上看过的地方。上个星期很荣幸地遇上了它。高楼林立的陆家嘴，带着传奇的魔幻色彩，还有那步行街，南京路。一种陌生所带来的兴奋感油然而生。四处游走，却完全不会疲倦，在这里所体会到的现代感，给我非同一般的视觉冲击，这里一切一切都代表
+    
+    </summary>
+    
+      <category term="生活不止苟且，还要有诗和远方" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%AD%A2%E8%8B%9F%E4%B8%94%EF%BC%8C%E8%BF%98%E8%A6%81%E6%9C%89%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+    
+    
+      <category term="游学记" scheme="http://yoursite.com/tags/%E6%B8%B8%E5%AD%A6%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>回忆最近这段时间</title>
+    <link href="http://yoursite.com/2017/09/11/%E5%9B%9E%E5%BF%86%E6%9C%80%E8%BF%91%E8%BF%99%E6%AE%B5%E6%97%B6%E9%97%B4/"/>
+    <id>http://yoursite.com/2017/09/11/回忆最近这段时间/</id>
+    <published>2017-09-11T11:43:47.000Z</published>
+    <updated>2018-03-25T15:17:09.433Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近的几个月里都在忙里奔波，少记录很多事情。还好该记得的，我都记在心里了。此时此刻，我觉得那段美好的时刻，应该被记录下来，供日后回忆好久好久。</p>
+<p>过去的很长一段时间里，我一直认为自己不会选择下厂子干活，至少应聘工作的时候，不会去考虑类似的公司，在我自己的设想里面，我是应该敲着键盘的IT男，并没日没夜的与bug作斗争。不单单是我的设想，还是我在梦中拉出来的理想。</p>
+<p>如果时间以月节点，我想我所有的努力可能不值一提，但至少我会为这个选择认真过。在2017年的5月的这段日子里，我找人生中第一份开发工作——前端工程师。真正开始尝试做起企业开发工作。并已经开始建立起自己的github、blog记录着历程。虽然不多，但里面含着真挚的情感。</p>
+<p><img src="/img/temp.png" alt="mobile-open"></p>
+<p>早在4个月前，我依旧还是那个迷茫的我，不知从何开始选择，毕竟一个刚毕业的大专生可供的选择不可能太多。心里总会想着，想做的未能能够做到，毕竟跨了一个专业，基础又未必扎实，而且还缺少项目经验，而目前的IT行情，对新人的要求也越来越高。后面的可想而知，面临的只有妥协，找一份接线工作，然后慢慢开始做起。但我知道这并不是我想要的，依旧每天都会去寻求改变，但又不知道路径，只好每天尝试的查找各种各样的资料，自己慢慢的找准方向开始做起。。那时在实训室的日子，便随我的唯有自己，但内心还是不够坚定。</p>
+<p>对于一个初学者来说，待续。。。（上文主要体现逐渐想社会现状作出妥协，而又无法适从的心里）</p>
+<p>多上可以从上文看出自己当时处在一个努力未得到理想效果的心里偏差，是的，目前回过头来看，其实慢慢可以看出心里与其纠结这件事情，不如花多点时间去做好自己想做的事情。</p>
+<p>从某种… （过去的，还是让它随风飘逝吧，当下也有选择，也需要坚持）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近的几个月里都在忙里奔波，少记录很多事情。还好该记得的，我都记在心里了。此时此刻，我觉得那段美好的时刻，应该被记录下来，供日后回忆好久好久。&lt;/p&gt;
+&lt;p&gt;过去的很长一段时间里，我一直认为自己不会选择下厂子干活，至少应聘工作的时候，不会去考虑类似的公司，在我自己的设想里面
+    
+    </summary>
+    
+      <category term="越早醒悟越好" scheme="http://yoursite.com/categories/%E8%B6%8A%E6%97%A9%E9%86%92%E6%82%9F%E8%B6%8A%E5%A5%BD/"/>
+    
+    
+      <category term="路依旧很长" scheme="http://yoursite.com/tags/%E8%B7%AF%E4%BE%9D%E6%97%A7%E5%BE%88%E9%95%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>移动端之设备像素比</title>
+    <link href="http://yoursite.com/2017/06/12/%E4%B8%8D%E8%83%BD%E6%89%BF%E5%8F%97%E7%94%9F%E5%91%BD%E4%B9%8B%E8%BD%BB/"/>
+    <id>http://yoursite.com/2017/06/12/不能承受生命之轻/</id>
+    <published>2017-06-12T15:28:57.000Z</published>
+    <updated>2017-06-26T16:08:14.055Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天花了一个中午来捣鼓关于移动的应用，其中在移动端上的dpr（设备像素比devicepixelratio），这点上花了不少心思。其实，它本身一介草民，但触及移动端就不能不提及他了。哈哈。首先得搞懂他是个什么东西，为什么要我在移动设备应用到他，首先，他的意思是：<u>设备像素比是物理像素与设备无关像素的比值，用于描述整个渲染环境在硬件设备上的缩放程度，单位用dppx</u>。见到这里就清晰明了多了。原来是个控制在屏幕上实际渲染大小的存在，感情现在也与那个移动没有大多关系。咱们继续往下看。:happy::happy::happy:</p>
+<p>(在程序中可以通过window对象上的devicepixelratio属性来得到这个值。😆)</p>
+<p>我们再继续了解几个关键词。(我们上面提到的几个关键词)</p>
+<p><strong>物理像素（physical pixel）</strong>：设备能控制显示的最小单位。</p>
+<p><strong>设备独立像素（DIP，device-independent pixel，density-independent pixel）</strong>：独立于设备的用于逻辑上衡量像素的单位。</p>
+<p>再来个，<strong>每英寸像素量（PPI，pixels per inch）</strong>：一英寸长度上可以并排的像素数量。</p>
+<p>原由：</p>
+<p>在正常人的眼可以识别的分辨率为300PPI，而现在很多设备的分辨率都超过了300PPI。如果设备总是以满分辨率来显示东西就可能造成文字太小，人们看不清。因此像浏览器这样的软件就会对内容做一次放大后再进行渲染，也就是降低分辨率。要降低分辨率就需要让像素这个单位变大，因此PPI的计算不再使用物理像素，而改用设备独立像素。那么设备独立像素和物理像素之间就存在一个比例差异，这就是设备像素比。</p>
+<p>​    </p>
+<p>单位dppx（dots per pixel）表示每个DIP占用几个物理像素。或者说，CSS中的单位px在屏幕上占用了多少物理像素。在PC上，这个值通常为1。但浏览器提供了缩放功能，它实际上就是修改设备像素比来实现的，所以调整浏览器的缩放可以看到devicePixelRatio属性的变化。</p>
+<p>所以这个属性更多时候用于移动设备上，作为物理分辨率的判断依据。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今天花了一个中午来捣鼓关于移动的应用，其中在移动端上的dpr（设备像素比devicepixelratio），这点上花了不少心思。其实，它本身一介草民，但触及移动端就不能不提及他了。哈哈。首先得搞懂他是个什么东西，为什么要我在移动设备应用到他，首先，他的意思是：&lt;u&gt;设备像素
+    
+    </summary>
+    
+    
+      <category term="坚信web将会成为未来应用程序的主流" scheme="http://yoursite.com/tags/%E5%9D%9A%E4%BF%A1web%E5%B0%86%E4%BC%9A%E6%88%90%E4%B8%BA%E6%9C%AA%E6%9D%A5%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%9A%84%E4%B8%BB%E6%B5%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>lesson</title>
+    <link href="http://yoursite.com/2017/06/05/lesson/"/>
+    <id>http://yoursite.com/2017/06/05/lesson/</id>
+    <published>2017-06-05T15:16:54.000Z</published>
+    <updated>2017-06-05T15:52:55.079Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    一个人在外面打拼实在是很难，重要的是一个人是否能坚持，其次还需要一位良师的指点。毕竟人生面临太多选择了，每次的选择都显得至关重要。</p>
+<p>关于编程的想法：</p>
+<p>爱因斯坦曾经说过世界是合理的简单的 可以理解的。当做的东西操作很复杂的时候，复杂到根本不知道自己在干什么，那一定是 错误的。而且框架的出现是为了让开发更简单，而不是复杂。</p>
+<p>真正开发的时候，会发现中文文档与实际的代码会存在差异，英文文档会随着代码库的升级，持续维护，而中文文档什么时候更新一次也不知道的，还有不要乱用其名字。该是什么就是什么，不要自己创造，每一步操作，都要有依据。而不是凭空的个人创造。</p>
+<p>看文档的时候开始不要太过于追求速度，应该把一些东西在看细些，处理问题应从多方面的考虑，而不是知道一点东西后，就胡乱的操作一通，往往这样所带来的开发效率更加低下。而且还得继续总结H5方面的内容，算下来已经很长时间没有去做一份关于技术上的总结了。接下来又有得忙了。</p>
+<p>关于原型与原型链：</p>
+<p>​    每个构造函数都有一个原型属性(prototype)，该属性指向构造函数的原型对象；而实例对象有一个隐式原型属性(<strong>proto</strong>)，其指向构造函数的原型对象(obj.<strong>proto</strong>==Object.prototype)；同时实例对象中有一个constructor属性，其指向构造函数。（原型与原型链上遇到的一个总结的非常好的文章，特此摘下记录）</p>
+<p><img src="/img/yuan.png" alt="mark"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;​    一个人在外面打拼实在是很难，重要的是一个人是否能坚持，其次还需要一位良师的指点。毕竟人生面临太多选择了，每次的选择都显得至关重要。&lt;/p&gt;
+&lt;p&gt;关于编程的想法：&lt;/p&gt;
+&lt;p&gt;爱因斯坦曾经说过世界是合理的简单的 可以理解的。当做的东西操作很复杂的时候，复杂到根本
+    
+    </summary>
+    
+      <category term="生活不止苟且，还要有诗和远方" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%AD%A2%E8%8B%9F%E4%B8%94%EF%BC%8C%E8%BF%98%E8%A6%81%E6%9C%89%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+    
+    
+      <category term="游学记" scheme="http://yoursite.com/tags/%E6%B8%B8%E5%AD%A6%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sunshine</title>
+    <link href="http://yoursite.com/2017/05/30/Want-me/"/>
+    <id>http://yoursite.com/2017/05/30/Want-me/</id>
+    <published>2017-05-30T15:13:34.000Z</published>
+    <updated>2017-05-31T15:42:59.380Z</updated>
+    
+    <content type="html"><![CDATA[<p>今早非常有幸的加到了@花仲马的微信，真的非常有幸。而且还使坏的问了一句，花花姐什么时候嫁给芬达大神。哈哈，估计花花姐现在还在加班。没空回复我。看过phodal博客的朋友都知道，这是一段非常有浪漫色彩的爱情短跑，尤其是那句（待我代码编成，娶你为妻可好@花仲马），简直每逢看到phodal的文章时，总能想到这句。这引发了我的思考，等我代码写好，上哪找我的花仲马呢?</p>
+<p>但是我觉得任何时候都需要给自己信心，毕竟这三年走过路，都是通过自己努力去争取的。路边的每一段风景，虽说不是格外绚丽灿烂，少有人陪。我想每条路都有属于自己的归属。路的尽头，也最终将迎来毕业的到来。无论之前故事如何，但这次我任将选择重头开始。白驹过隙，忽然而已。</p>
+<p>现在经历还太少，总结来说，生活就像代码，总能遇到始料不及的bug。</p>
+<p>这周工作的总结，我收集了各种了移动端的框架比较，还有把之前一些代码上传带github，模仿ionic京东购物车，以及尝试去还原公司的首页滚动效果。但是做的并不好，没有研究透，而这假期一直处于游玩的状态，还是自身的学习压力不够太，导致对自己的要求松懈了。以及设想的都没有做，比较懊恼。 在这里提主要是希望自己能改变这种状态，毕竟自身的定位是明确的，把之前那种学习劲持续持下去。</p>
+<p>而端午节假期去了白云山游玩，印象深刻的不是他的美景，而是山里面的蚊子和索道缆车，尤其是蚊子，咬一口留下的印记三天不退，每观望一次就回忆一下，久久不能忘怀。在持续性的走动一般是不会被蚊子咬的，因为在看别人蹦极的时候，逗留的太久，给了蚊子可乘之机，被咬了个措不及防，实在可恨。还有就是第一次坐索道缆车，这次体验又刷新了对事物感知，真是个难得的体会，毕竟工作后这种机会真的不多了，能狼一次算一次，记录下了也算是对远方的一种寄托吧~</p>
+<p>下面就是我对于各种移动端的小汇总。</p>
+<p><img src="/img/mobile-open.png" alt="mobile-open"></p>
+<p>个人建议的话：用sui mobile，因为项目在微信平台上使用，而微信平台推荐使用的是weiui和sui mobile这两个框架。而且sui mobile的ui库比较健全，很对组件都是已经写好的，直接拿来用就可以了。并且 SUI mobile用的低是rem，所以在分辨率的问题上也可以不用考虑那么多。具体还是等总监来决定，问题的关键在于在需求方面哪个才是真正符合我的产品需求。</p>
+<p>github上传所遇到的问题（未详细记录）以及滚动轮效果（可以用fullpage来实现），后续都会简短的图片方式上传。</p>
+<p>希望下个周末赶紧到来，继续记录更多好玩的东西。~~</p>
+<p><img src="/img/view01.jpg" alt="view01"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今早非常有幸的加到了@花仲马的微信，真的非常有幸。而且还使坏的问了一句，花花姐什么时候嫁给芬达大神。哈哈，估计花花姐现在还在加班。没空回复我。看过phodal博客的朋友都知道，这是一段非常有浪漫色彩的爱情短跑，尤其是那句（待我代码编成，娶你为妻可好@花仲马），简直每逢看到p
+    
+    </summary>
+    
+      <category term="生活不止苟且，还要有诗和远方" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%AD%A2%E8%8B%9F%E4%B8%94%EF%BC%8C%E8%BF%98%E8%A6%81%E6%9C%89%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+    
+    
+      <category term="生活不止苟且，还要有诗和远方" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%AD%A2%E8%8B%9F%E4%B8%94%EF%BC%8C%E8%BF%98%E8%A6%81%E6%9C%89%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>游学之路</title>
+    <link href="http://yoursite.com/2017/05/21/%E4%BA%89%E6%B8%A1/"/>
+    <id>http://yoursite.com/2017/05/21/争渡/</id>
+    <published>2017-05-21T14:36:47.000Z</published>
+    <updated>2017-05-30T15:57:37.208Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/tu.jpg" alt="mark"></p>
+<p>争渡，争渡，渡出一条出游学路。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/img/tu.jpg&quot; alt=&quot;mark&quot;&gt;&lt;/p&gt;
+&lt;p&gt;争渡，争渡，渡出一条出游学路。&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="生活不止苟且，还要有诗和远方" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%AD%A2%E8%8B%9F%E4%B8%94%EF%BC%8C%E8%BF%98%E8%A6%81%E6%9C%89%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+    
+    
+      <category term="游学记" scheme="http://yoursite.com/tags/%E6%B8%B8%E5%AD%A6%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>独立博客</title>
+    <link href="http://yoursite.com/2017/05/13/aiticle/"/>
+    <id>http://yoursite.com/2017/05/13/aiticle/</id>
+    <published>2017-05-13T12:53:21.000Z</published>
+    <updated>2017-05-30T15:57:45.058Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    在很早一开始，创建本博客的初衷，为了记录与学习，想把些亲身踩过的坑 ，对技能的见解，以及在这一路上的总结，给记录和分享在博客上。同时希望自己的想法能有一个寄托。之所以选择，大概是因为看的多了(blog)，就会有种想选择的想法，理由虽有些牵强，不过总是实践出来了(这里要3q辉爷的赶脚)~。 </p>
+<p>​    我的第一篇博文，本就打算记录下这周上班所遇到问题(bug)。仔细想想一开始就推些不知所云的见解~~~,怎么想都不合适。所以还是选择抒抒情（chui shui），比如自己在选择职业规划上，是怎么做出思考的。以及在作为一个职场新人，做过哪些很纯的事情呀~  但其中一点很重要，这篇文章，我会按我几个阶段来写，并不是一次性全写完，大概一周会有一个小篇幅。毕竟想要总结（chui shui）的东西太多。时间上也不允许等，我就不一一举例了。并且说明这并不是一篇鸡汤文，只想做为生平的一次小记录。</p>
+<p>​    感慨下：作为一个刚入职不久的新人， 工作开始还是挺有压力的，起码头三天，工作时间内，满脑子都是需求的问题。其中，很重的一点，不知道新人入公司会不会有一种想法，一开始接任务的时候，着实在真没把握，基本有个短时间都在担心，头脑里面如果实现不了需求该如何处理，这个短时间内，估计都有的来想了~（一起期待下周的小篇幅）</p>
+<p>​    </p>
+<p>​    </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;​    在很早一开始，创建本博客的初衷，为了记录与学习，想把些亲身踩过的坑 ，对技能的见解，以及在这一路上的总结，给记录和分享在博客上。同时希望自己的想法能有一个寄托。之所以选择，大概是因为看的多了(blog)，就会有种想选择的想法，理由虽有些牵强，不过总是实践出来了(这
+    
+    </summary>
+    
+      <category term="生活不止苟且，还要有诗和远方" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%AD%A2%E8%8B%9F%E4%B8%94%EF%BC%8C%E8%BF%98%E8%A6%81%E6%9C%89%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+    
+    
+      <category term="独立博客诞生记" scheme="http://yoursite.com/tags/%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%AF%9E%E7%94%9F%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>向阳 路上</title>
+    <link href="http://yoursite.com/2017/05/11/%E5%90%91%E9%98%B3%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    <id>http://yoursite.com/2017/05/11/向阳在路上/</id>
+    <published>2017-05-11T14:21:13.000Z</published>
+    <updated>2017-05-30T15:57:24.551Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/img/mark.jpg" alt="mark"></p>
+<p>相遇，愿是相知，相知，愿相识。这里便是记录我的点点滴滴的开始。这一路上，愿有你。在我这里留下你的足迹，便是最美的开始。</p>
+<p>​                                                    </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/img/mark.jpg&quot; alt=&quot;mark&quot;&gt;&lt;/p&gt;
+&lt;p&gt;相遇，愿是相知，相知，愿相识。这里便是记录我的点点滴滴的开始。这一路上，愿有你。在我这里留下你的足迹，便是最美的开始。&lt;/p&gt;
+&lt;p&gt;​                         
+    
+    </summary>
+    
+      <category term="生活不止苟且，还要有诗和远方" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%AD%A2%E8%8B%9F%E4%B8%94%EF%BC%8C%E8%BF%98%E8%A6%81%E6%9C%89%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+    
+    
+      <category term="生活随笔" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
