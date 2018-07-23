@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-25T15:17:09.433Z</updated>
+  <updated>2018-07-22T11:59:36.009Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,63 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo常用命令</title>
+    <link href="http://yoursite.com/2018/07/22/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>http://yoursite.com/2018/07/22/hexo常用命令/</id>
+    <published>2018-07-22T08:04:47.000Z</published>
+    <updated>2018-07-22T11:59:36.009Z</updated>
+    
+    <content type="html"><![CDATA[<p>hexo new “postName”<br>hexo n 也可以<br> 你自己的博客名称，名为postName.md的文件会建在目<br> 录/blog/source/_posts下。</p>
+<p>hexo g //生成静态页面<br>hexo d //发布</p>
+<p>hexo clean  //清除缓存<br>hexo g  //重新生成代码<br>hexo s  //部署到本地</p>
+<p>然后打开浏览器访问 localhost:4000 查看效果上</p>
+<p>注：</p>
+<p>写_yml的时候，记得加上空格先</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;hexo new “postName”&lt;br&gt;hexo n 也可以&lt;br&gt; 你自己的博客名称，名为postName.md的文件会建在目&lt;br&gt; 录/blog/source/_posts下。&lt;/p&gt;
+&lt;p&gt;hexo g //生成静态页面&lt;br&gt;hexo d //发布&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="游学记" scheme="http://yoursite.com/tags/%E6%B8%B8%E5%AD%A6%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>时间账单</title>
+    <link href="http://yoursite.com/2018/07/22/%E6%97%B6%E9%97%B4%E8%B4%A6%E5%8D%95/"/>
+    <id>http://yoursite.com/2018/07/22/时间账单/</id>
+    <published>2018-07-22T07:15:47.000Z</published>
+    <updated>2018-07-22T10:01:41.947Z</updated>
+    
+    <content type="html"><![CDATA[<p>​    上海，传说中的魔都。一直只在电视机或照片上看过的地方。上个星期很荣幸地遇上了它。高楼林立的陆家嘴，带着传奇的魔幻色彩，还有那步行街，南京路。一种陌生所带来的兴奋感油然而生。四处游走，却完全不会疲倦，在这里所体会到的现代感，给我非同一般的视觉冲击，这里一切一切都代表了潮流时尚、先进科技。融合了诸多元素，所产生的现代化合物。</p>
+<p><img src="http://pc95us7qm.bkt.clouddn.com/IMG_20180713_161538.jpg" alt=""></p>
+<p><img src="http://pc95us7qm.bkt.clouddn.com/IMG_20180713_154547.jpg" alt=""></p>
+<p><img src="http://pc95us7qm.bkt.clouddn.com/IMG_20180713_161941.jpg" alt=""></p>
+<p>时间总是那么短暂，又匆匆的赶往下一站了。</p>
+<p><img src="http://pc95us7qm.bkt.clouddn.com/IMG_20180713_205800_HHT.jpg" alt=""></p>
+<p>致：前所未有感受与体验</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;​    上海，传说中的魔都。一直只在电视机或照片上看过的地方。上个星期很荣幸地遇上了它。高楼林立的陆家嘴，带着传奇的魔幻色彩，还有那步行街，南京路。一种陌生所带来的兴奋感油然而生。四处游走，却完全不会疲倦，在这里所体会到的现代感，给我非同一般的视觉冲击，这里一切一切都代表
+    
+    </summary>
+    
+      <category term="生活不止苟且，还要有诗和远方" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%AD%A2%E8%8B%9F%E4%B8%94%EF%BC%8C%E8%BF%98%E8%A6%81%E6%9C%89%E8%AF%97%E5%92%8C%E8%BF%9C%E6%96%B9/"/>
+    
+    
+      <category term="游学记" scheme="http://yoursite.com/tags/%E6%B8%B8%E5%AD%A6%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>回忆最近这段时间</title>
